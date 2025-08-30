@@ -104,7 +104,7 @@
   ];
 
   // Custom final message (supports {name})
-  const FINAL_MESSAGE = "Happy Birthday Ate {name}! Keep exploring! You are our pride and joy.";
+  const FINAL_MESSAGE = "Happy Birthday Ate Xiara! Keep exploring! You are our pride and joy.";
 
   // Story levels
   const STORY_LEVELS = [
